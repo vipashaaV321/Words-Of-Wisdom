@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Words-Of-Wisdom/static/css/main.89580b15.chunk.css",
+    "main.js": "/Words-Of-Wisdom/static/js/main.5e98f3c9.chunk.js",
+    "main.js.map": "/Words-Of-Wisdom/static/js/main.5e98f3c9.chunk.js.map",
+    "runtime-main.js": "/Words-Of-Wisdom/static/js/runtime-main.cabddd43.js",
+    "runtime-main.js.map": "/Words-Of-Wisdom/static/js/runtime-main.cabddd43.js.map",
+    "static/js/2.564f1b91.chunk.js": "/Words-Of-Wisdom/static/js/2.564f1b91.chunk.js",
+    "static/js/2.564f1b91.chunk.js.map": "/Words-Of-Wisdom/static/js/2.564f1b91.chunk.js.map",
+    "index.html": "/Words-Of-Wisdom/index.html",
+    "precache-manifest.cdbda342a5fc974a2de18fb2dd9d0b5f.js": "/Words-Of-Wisdom/precache-manifest.cdbda342a5fc974a2de18fb2dd9d0b5f.js",
+    "service-worker.js": "/Words-Of-Wisdom/service-worker.js",
+    "static/css/main.89580b15.chunk.css.map": "/Words-Of-Wisdom/static/css/main.89580b15.chunk.css.map",
+    "static/js/2.564f1b91.chunk.js.LICENSE.txt": "/Words-Of-Wisdom/static/js/2.564f1b91.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Words-Of-Wisdom/static/media/scenery_illustration.7dfe0067.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cabddd43.js",
+    "static/js/2.564f1b91.chunk.js",
+    "static/css/main.89580b15.chunk.css",
+    "static/js/main.5e98f3c9.chunk.js"
+  ]
+}
